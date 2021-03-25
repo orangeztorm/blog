@@ -31,6 +31,9 @@ Blogs List
 Blogs Detail screnn
 
 
+error state
+
+
 
 
 A new Flutter application.

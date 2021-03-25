@@ -1,23 +1,37 @@
 # blog
 
 ![ScreenShot](https://github.com/orangeztorm/blog/blob/master/assets/Screenshot_20210325-152135.jpg)
+
 Login PAGE
 
 ![ScreenShot](https://github.com/orangeztorm/blog/blob/master/assets/Screenshot_20210325-152148.jpg)
+
 Login PAGE with validation using bloc
 
 ![ScreenShot](https://github.com/orangeztorm/blog/blob/master/assets/Screenshot_20210325-152229.jpg)
+
 Login PAGE with accepted inputs
 
 ![ScreenShot](https://github.com/orangeztorm/blog/blob/master/assets/Screenshot_20210325-152236.jpg)
-Logging in the user
 
-![ScreenShot](https://github.com/orangeztorm/blog/blob/master/assets/Screenshot_20210325-152236.jpg)
 Logging in the user
 
 ![ScreenShot](https://github.com/orangeztorm/blog/blob/master/assets/Screenshot_20210325-155524.jpg)
-Fetching
-https://github.com/orangeztorm/blog/blob/master/assets/Screenshot_20210325-155524.jpg
+
+Fetching Blogs
+
+
+![ScreenShot](https://github.com/orangeztorm/blog/blob/master/assets/Screenshot_20210325-182415.jpg)
+
+Blogs List
+
+
+![ScreenShot](https://github.com/orangeztorm/blog/blob/master/assets/Screenshot_20210325-182407.jpg)
+
+Blogs Detail screnn
+
+
+
 
 A new Flutter application.
 

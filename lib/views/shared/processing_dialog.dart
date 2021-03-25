@@ -58,7 +58,7 @@ Future<void> processingDialog({context, nextPage, blocStream}) async {
                             TokenNotifier.token = snapshot.data.data.token;
                             print("token --- ${snapshot.data.data.token}");
                             WidgetsBinding.instance.addPostFrameCallback(
-                              (_) => Navigator.push(
+                              (_) => Navigator.pushReplacement(
                                 context,
                                 MaterialPageRoute(
                                   builder: (context) => nextPage,

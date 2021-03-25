@@ -36,11 +36,7 @@ class BlogList extends StatelessWidget {
                   fontFamily: 'Nunito',
                   color: Colors.black,
                 )),
-            leading: Container(
-              height: 45,
-              width: 45,
-              child: Image.network("${blogList[index].imageUrl}"),
-            ),
+            leading: Image.network("${blogList[index].imageUrl}"),
             trailing: Text('${blogList[index].createdAt}',
                 style: TextStyle(
                   fontSize: 9,

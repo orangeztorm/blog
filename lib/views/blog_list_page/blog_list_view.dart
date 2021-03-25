@@ -31,6 +31,7 @@ class _BlogListViewState extends State<BlogListView> {
     return Scaffold(
       appBar: AppBar(
         title: Text("Blogs"),
+        automaticallyImplyLeading: false,
         centerTitle: true,
       ),
       body: RefreshIndicator(
